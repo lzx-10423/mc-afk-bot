@@ -1,4 +1,4 @@
-#基本功能
+# 基本功能
 Discord Bot 整合	控制台與 Discord 同步訊息
 指令控制	支援 Slash 指令操作所有自動功能
 Discord 同步聊天	遊戲內對話 → Discord 頻道（含轉色碼）

@@ -1,0 +1,13 @@
+{
+  "MC_EMAIL": "你的Minecraft登入帳號",
+  "MC_AUTH": "microsoft",
+  "MC_VERSION": "1.21",
+  "MC_HOST": "伺服器ip",
+  "MC_PORT": 25565,
+
+  "DISCORD_TOKEN": "你的 Discord Bot Token",
+  "GUILD_ID": "dc伺服器 ID",
+  "CHANNEL_ID": "dc頻道 ID",
+
+  "TPA_WHITELIST": ["玩家1", "玩家2", "玩家3"](如只需一個 請把" , "玩家2", "玩家3" "刪除 包括這段文字)
+}

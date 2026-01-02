@@ -34,6 +34,7 @@ Discord 同步聊天	遊戲內對話 → Discord 頻道（含轉色碼）
 TPA 自動接受/拒絕	根據白名單自動接受或拒絕傳送請求  
 中文顏色碼轉換	使用 § 顏色代碼時正確轉為彩色輸出 
   
-# 購買與管道
-進入discord伺服器https://discord.gg/FZ9WkrhMqA  
-或是創作人 lzx_10423  
+~~# 購買與管道~~
+~~進入discord伺服器https://discord.gg/FZ9WkrhMqA~~  
+~~或是創作人 lzx_10423~~  
+### 對不起 我把原始代碼用不見了 以後沒更新了 也不賣了
